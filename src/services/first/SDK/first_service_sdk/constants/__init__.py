@@ -1,0 +1,1 @@
+FIRST_SERVICE_GREETING = 'Hello from first service'

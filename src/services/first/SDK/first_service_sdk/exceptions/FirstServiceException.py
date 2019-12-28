@@ -1,0 +1,2 @@
+class FirstServiceException(Exception):
+    pass

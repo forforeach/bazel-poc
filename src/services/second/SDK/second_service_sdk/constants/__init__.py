@@ -1,0 +1,1 @@
+SECOND_SERVICE_GREETING = 'Hello from second service'

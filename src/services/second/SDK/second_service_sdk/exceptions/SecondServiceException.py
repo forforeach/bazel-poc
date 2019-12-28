@@ -1,0 +1,2 @@
+class SecondServiceException(Exception):
+    pass

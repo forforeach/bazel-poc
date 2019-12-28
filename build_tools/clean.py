@@ -11,7 +11,7 @@ def remove_subdirs_by_path(path):
 
 
 def clean(dirpath):
-    dirs_to_clean = ['/*.egg-info', '/build', '/temp', '/dist']
+    dirs_to_clean = ['/*.egg-info', '/build', '/temp', '/dist', '__pycache__']
     print('*' * 80)
     print(f'Cleaning {dirpath}')
     for dir_to_clean in dirs_to_clean:

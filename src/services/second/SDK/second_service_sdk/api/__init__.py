@@ -1,5 +1,5 @@
 from ..constants import SECOND_SERVICE_GREETING
-from ..exceptions import SecondServiceException
+from ..exceptions.SecondServiceException import SecondServiceException
 
 def greet():
     print(SECOND_SERVICE_GREETING)

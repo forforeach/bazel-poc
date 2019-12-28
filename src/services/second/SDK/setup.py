@@ -6,7 +6,7 @@ def build():
         long_description = fh.read()
     setuptools.setup(
         name="second_service_sdk",  # Replace with your own username
-        version="0.0.4",
+        version="0.0.7",
         author="forforeach",
         description="The SDK for the second service",
         long_description=long_description,

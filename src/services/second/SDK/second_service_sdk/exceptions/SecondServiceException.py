@@ -1,2 +1,2 @@
-class SecondServiceException(Exception):
+class SecondServiceException(BaseException):
     pass

@@ -1,2 +1,2 @@
-class FirstServiceException(Exception):
+class FirstServiceException(BaseException):
     pass
